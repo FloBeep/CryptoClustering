@@ -22,11 +22,14 @@ This is a cryptocurrency clustering project with the following steps:
 
 The following questions have been answered:
 
-***Question:** What is the best value for `k` when using the PCA data?
-***Answer:** When using PCA data, the best value of `k` is 4.
+**Question:** What is the best value for `k` when using the PCA data?
 
-***Question:** Does it differ from the best k value found using the original data?
-***Answer:** The best value of `k` using the PCA data is the same value found using the original data.
+**Answer:** When using PCA data, the best value of `k` is 4.
 
-***Question:** After visually analyzing the cluster analysis results, what is the impact of using fewer features to cluster the data using K-Means?
-***Answer:** The impact of using fewer features to cluster the data using K-Means changed the inertia and resulted in more precise clusters.
+**Question:** Does it differ from the best k value found using the original data?
+
+**Answer:** The best value of `k` using the PCA data is the same value found using the original data.
+
+**Question:** After visually analyzing the cluster analysis results, what is the impact of using fewer features to cluster the data using K-Means?`<br>`
+
+**Answer:** The impact of using fewer features to cluster the data using K-Means changed the inertia and resulted in more precise clusters.
